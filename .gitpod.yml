@@ -2,3 +2,5 @@ image: gitpod/workspace-mysql
 
 tasks:
  -init: mysql -u root -e "CREAT DATABASE applicationdb"
+ #arquivomysql
+ 
