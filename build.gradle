@@ -1,0 +1,22 @@
+plugin{
+    id 'org.springframework.boot' version ''
+    id 'io.spring.dependency=management'version '1.0.9.REALESE'
+    id 'java'
+
+}
+
+repositores{
+    jcenter()
+
+}
+
+dependencies{
+    implementation 'org.springframework.boot:spring-boot-starte-web'
+    implementation 'org.springframework.boot:spring-boot-starte-data-jpa'
+    implementation 'mysql:mysql-connector-java'
+    implementation 'javax.servlet:jstl: 1.2'
+    implementation 'org.apache.tomcat.embed:tomcart-embed-jasper'
+
+
+
+}
