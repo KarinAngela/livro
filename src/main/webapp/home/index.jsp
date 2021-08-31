@@ -1,17 +1,17 @@
-<%@ page language="java" contentTy="text/html"; charset=UTF-8"
-pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="type/html"; charset="UTF-8" pageEncoding="UTF-8"%>
 
-<!DOCYTPE html>
+<!DOCTYPE html>
 
 <html>
     <head>
-        <meta charset="utf-8"/>
-        <title>Olá Mundo</title>
+        <meta charset="UTF-8"/>
+        <title>Olá mundo</title>
     </head>
+
     <body>
-       <h1>Olá Mundo seu nome</h1>
+        <h1>Olá mundo Mateus!</h1>
     </body>
-    </html>
+</html>
               
 
 
