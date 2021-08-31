@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8"/>
         <title>Olá mundo</title>
-        <link href="css/default.css" rel="stulesheet" />
+        <link href="css/default.css" rel="stylesheet" />
     </head>
     <body>
         <h1>Olá mundo Karin!</h1>
